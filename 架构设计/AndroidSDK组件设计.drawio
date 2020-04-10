@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-10T10:23:31.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="UrqQby-umm8Tj__qYbum" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-10T10:24:14.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="CBZpf4JMEHu8cgwJ5ezB" version="12.9.10" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1188" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -101,9 +101,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Byz9rubL3av8yXPsnvPv-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="39150e848f15840c-17">
+        <mxCell id="Byz9rubL3av8yXPsnvPv-28" value="使用gradle 动态引用jcenter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="39150e848f15840c-17">
           <mxGeometry x="-0.5002" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="39150e848f15840c-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" source="39150e848f15840c-3" target="39150e848f15840c-1" edge="1">
